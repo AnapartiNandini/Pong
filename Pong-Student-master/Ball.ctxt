@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Ball
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ball\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Ball()
+comment1.text=\r\n\ Ball\ sets\ the\ image\ of\ the\ Ball\ class,\ as\ well\ as\ sets\ its\ color,\ shape\ and\ at\ which\ angle\ it\ should\ rotate\ when\ it\ hits\ the\ top\ or\ bottom\ of\ the\ window,\ or\ the\ paddle\r\n\ \r\n\ @param\ None\ there\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Ball\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ checkCollision()
+comment3.text=\r\n\ checkCollision\ checks\ whether\ or\ not\ the\ ball\ has\ been\ hit.\ Depending\ on\ the\ outcome,\ it\ instructs\ the\ scenario\ on\ what\ to\ do\ next.\r\n\ \r\n\ @param\ None\ there\ are\ no\ paraameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment4.params=v
+comment4.target=void\ setVelocity(int)
+comment4.text=\r\n\ setVelocity\ sets\ the\ velocity\ of\ the\ game\ to\ the\ value\ of\ "v"\r\n\ \r\n\ @param\ There\ is\ an\ integer\ variable\ as\ the\ parameter\ which\ represents\ a\ "v"\ variable\r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=5

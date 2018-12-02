@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Paddle
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Paddle\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=isLeft
+comment1.target=Paddle(boolean)
+comment1.text=\r\n\ Paddle\ is\ the\ constructor\ for\ this\ class\ which\ sets\ the\ functions\ of\ the\ paddles,\ sets\ the\ image\ of\ the\ paddle,\ as\ well\ as\ the\ color\ for\ thae\ paddles\ for\r\n\ each\ respective\ player\r\n\ \r\n\ @param\ there\ is\ a\ boolean\ parameter\ which\ represents\ whether\ the\ variable\ isLeft\ is\ either\ true\ or\ false\r\n\ @return\ nothing\ is\ returned\ as\ there\ is\ no\ return\ value\ considering\ this\ is\ the\ constructor\ method\ for\ this\ class\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Paddle\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ checkKeyPress()
+comment3.text=\r\n\ checkKeyPress\ checks\ which\ key\ has\ been\ presseed\ and\ depending\ on\ the\ outcome,\ what\ to\ do.\r\n\ \r\n\ @param\ None\ there\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=4
